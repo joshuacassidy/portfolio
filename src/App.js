@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import $ from 'jquery';
+import './App.css';
 import Header from './Components/Header';
 import About from './Components/About';
 import Resume from './Components/Resume';
@@ -6,8 +8,6 @@ import Portfolio from './Components/Portfolio';
 import Testimonials from './Components/Testimonials';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
-import './App.css';
-import $ from 'jquery'
 
 class App extends Component {
   constructor(props){
@@ -18,9 +18,10 @@ class App extends Component {
     }
   }
 
+
   getResumeData(){
     $.ajax({
-      url: 'htt[://localhost:3000/resumeData.json',
+      url: 'http://localhost:3000/data.json',
       dataType: 'json',
       cache: false,
       success: function(data){
@@ -33,22 +34,21 @@ class App extends Component {
     })
   }
 
-  componetDidMount(){
+  componentDidMount(){
     this.getResumeData();
   }
 
-  render() {
-    console.log(this.state.resumeData)
+  render() { 
+    console.log(this.state.resumeData);
     return (
       <div className="App">
-
-      <Header />
-      <About />
-      <Resume />
-      <Portfolio />
-      <Testimonials />
-      <Contact />
-      <Footer />
+        <Header data={this.state.resumeData.main} />
+        <About data={this.state.resumeData.main} />
+        <Resume data={this.state.resumeData.resume} />
+        <Portfolio />
+        <Testimonials />
+        <Contact />
+        <Footer />
       </div>
     );
   }
