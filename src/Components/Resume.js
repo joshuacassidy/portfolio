@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 
 class Resume extends Component {
+  
   render() {
-    if(this.props.data){
-      var education = this.props.data.education.map(function(edu){
-        return <div key={edu.school} className="row item">
+        if(this.props.data){
+          var education = this.props.data.education.map(function(edu){
+          return <div key={edu.school} className="row item">
            <div className="twelve columns">
               <h3>{edu.school}</h3>
               <p className="info">{edu.degree} <span>&bull;</span> <em className="date">{edu.graduated}</em></p>
