@@ -30,7 +30,8 @@ class Resume extends Component {
       });
 
       var skills = this.props.data.skills.map(function(skill){
-            var className = 'bar-expand '+skill.name.toLowerCase();
+            var className = 'bar-expand '+(skill.name.toLowerCase().replace(/\s/g, ''));
+             console.log(className)
             return <li key={skill.name}><span style={{width:skill.level}} className={className}></span><em>{skill.name}</em></li>
       });
       var skills_description = this.props.data.skills_description;

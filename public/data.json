@@ -83,40 +83,99 @@
 
         "skills":[
             {
-                "name":"Sample",
+                "name":"Java",
+                "level":"87%"
+            },
+                        {
+                "name":"React",
+                "level":"30%"
+            },
+                        {
+                "name":"Git",
+                "level":"81%"
+            },
+                               {
+                "name":"HTML5",
+                "level":"66%"
+            },
+            {
+                "name":"CSS",
+                "level":"40%"
+            },
+            {
+                "name":"JSON",
+                "level":"79%"
+            },
+                        {
+                "name":"Web Design",
                 "level":"60%"
             },
             {
-                "name":"Sample1",
-                "level":"55%"
-            },
-            {
-                "name":"Sample2",
-                "level":"50%"
-            },
-            {
-                "name":"Sample3",
+                "name":"Hard Working",
                 "level":"90%"
             },
-            {
-                "name":"Sample4",
-                "level":"80%"
-            },
-            {
-                "name":"Sample5",
-                "level":"50%"
-            },
-            {
-                "name":"Sample6",
-                "level":"60%"
-            },
-            {
-                "name":"Sample7",
+                        {
+                "name":"Ruby",
                 "level":"55%"
+            },
+                        {
+                "name":"Customer Service",
+                "level":"70%"
+            },
+            {
+                "name":"Node",
+                "level":"20%"
+            },
+     {
+                "name":"Python3",
+                "level":"75%"
+            },
+
+              {
+                "name":"Game Development",
+                "level":"77%"
+            },
+
+
+            {
+                "name":"JavaScript",
+                "level":"68%"
+            },
+
+              {
+                "name":"Firebase",
+                "level":"18%"
+            },   
+            {
+                "name":"Team Work",
+                "level":"85%"
+            },
+            
+
+
+            {
+                "name":"Mongo Database",
+                "level":"15%"
+            },
+            {
+                "name":"Computer Hardware",
+                "level":"83%"
+            },
+
+            
+
+       
+            
+
+            {
+                "name":"Redux",
+                "level":"10%"
             }
+        
+
+        
  
-        ],
-        "skills_description":"Have knowledge of the following technologies: Python3, JavaScript, React,Redux,Axios,Node.js,ES6, Ruby, Ruby on Rails, HTML, Javascript, & Java."
+        ]
     },
     "portfolio":{
         "projects":[
