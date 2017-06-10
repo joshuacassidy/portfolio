@@ -325,81 +325,104 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
-}
-.jquery {
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.sample {
+  	-moz-animation: sample 2s ease;
+  	-webkit-animation: sample 2s ease;
 }
 
-@-moz-keyframes photoshop {
+.sample1 {
+  	-moz-animation: sample1 2s ease;
+  	-webkit-animation: sample1 2s ease;
+}
+.sample2 {
+  	-moz-animation: sample2 2s ease;
+  	-webkit-animation: sample2 2s ease;
+}
+.sample3 {
+  	-moz-animation: sample3 2s ease;
+  	-webkit-animation: sample3 2s ease;
+}
+.sample4 {
+  	-moz-animation: sample4 2s ease;
+  	-webkit-animation: sample4 2s ease;
+}
+.sample5 {
+  	-moz-animation: sample5 2s ease;
+  	-webkit-animation: sample5 2s ease;
+}
+.sample6 {
+  	-moz-animation: sample6 2s ease;
+  	-webkit-animation: sample6 2s ease;
+}
+.sample7 {
+  	-moz-animation: sample7 2s ease;
+  	-webkit-animation: sample7 2s ease;
+}
+@-moz-keyframes sample {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes sample1 {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes sample2 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes sample3 {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes sample4 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes sample5 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes sample6 {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-moz-keyframes sample7 {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+
+@-webkit-keyframes sample {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes sample1 {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-webkit-keyframes sample2 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes sample3 {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes sample4 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes sample5 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-
+@-webkit-keyframes sample6 {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes sample7 {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */

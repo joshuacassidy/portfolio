@@ -33,22 +33,23 @@ class Contact extends Component {
 
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="https://formspree.io/josh.cassidymtty@gmail.com" method="POST"  id="contactForm" name="contactForm">
+
 					<fieldset>
 
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactName" name="contactName" />
+						   <input type="text" size="35" id="contactName" name="contactName" />
                   </div>
 
                   <div>
 						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail" />
+						   <input type="text" size="35" id="contactEmail" name="contactEmail" />
                   </div>
 
                   <div>
 						   <label htmlFor="contactSubject">Subject</label>
-						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject" />
+						   <input type="text" size="35" id="contactSubject" name="contactSubject" />
                   </div>
 
                   <div>
@@ -57,7 +58,10 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     <button  type = "submit" method="POST" action="https://formspree.io/Joshuacassidy79@gmail.com">Submit</button>
+                     
+
+                                              
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
