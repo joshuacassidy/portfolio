@@ -3,45 +3,44 @@
     "name":"Joshua Cassidy",
     "occupation": "Student",
     "description": "Currently studying a BSc (Honours) in Computing at the National College of Ireland.",
-    "skills": "Have knowledge of the following technologies: Python3, JavaScript, React,Redux,Axios,Node.js,ES6, Ruby, Ruby on Rails, HTML, Javascript, & Java.",
     "image": "https://avatars0.githubusercontent.com/u/18393831?v=3&u=ef3575617707cad0977e3d3ebf653e8a784779e4&s=400",
-    "bio":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "bio":"My name is Joshua Cassidy and I am currently in first year at the National College of Ireland attending the BSc (Honours) in Computing course. I have started programming initially when I was 16, in java, where I learned for two years before branching out into other technolgies such as Python, JavaScript, React JS, C#, Ruby etc.",
     "email":"Joshcassidy79@gmail.com",
     "phone":"083-188-0578",
     "contact":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     "address":{
         "street":"6 Hill Drive",
         "area":"Malahide",
-        "city":"County Dublin",
+        "city":"Dublin",
         "country":"Ireland"
     },
     "resumedownload":"http://google.ie",
     "social":[
         {
             "name":"facebook",
-            "url":"http://facebook.com",
+            "url":"https://m.facebook.com/josh.cassidy.399?ref=bookmarks",
             "className":"fa fa-facebook"
         },
         {
             "name":"google-plus",
-            "url":"http://googleplus.com",
+            "url":"https://plus.google.com/102735292595904041225",
             "className":"fa fa-google-plus"
             
         },
          {
             "name":"linkedin",
-            "url":"http://linkedin.com",
+            "url":"https://www.linkedin.com/in/joshcassidy/",
             "className":"fa fa-linkedin"
             
         },
          {
             "name":"github",
-            "url":"http://github.com",
+            "url":"http://github.com/joshuacassidy",
             "className":"fa fa-github"
         },
          {
             "name":"skype",
-            "url":"http://skype.com",
+            "url":"skype:live:x15378586",
             "className":"fa fa-skype"
         }
     ]
@@ -49,36 +48,36 @@
     "resume":{
         "education": [
             {
-                "school":"sample",
-                "certificate":"leaving",
-                "graduated": "May 2015",
-                "description":"orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                "school":"Mount Temple Comprehensive School",
+                "certificate":"Leaving Certificate",
+                "graduated": "September 2009 - May 2015",
+                "description":"In May 2015, I graduate from Mount Temple Comprehensive School where I completed my Leaving Certificate."
             },
             {
-                "school":"sample",
-                "certificate":"leaving",
-                "graduated": "May 2015",
-                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                "school":"Nation College of Ireland",
+                "certificate":"Degree",
+                "graduated": "September 2016 - Present",
+                "description":"In September 2016 I started Bachelor's degree in Computing. The modules which I have currently undertaken are: Web Design, Introduction to Programming, Introduction to Maths for Business and Computing, Problem Solving and Programming Concepts, Software Applications for Business, The Computing Industry, Operating Systems, Computer Architechture, Digital Multimedia and Managing Your Learning."
             }
         ],
         "work":[
             {
-                "company":"sample",
-                "title":"samples",
-                "years":"20xx - 20xx",
-                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                "company":"Webbiz",
+                "title":"Web Application Intern",
+                "years":"15th May 2017 - Present",
+                "description":"My position in Webbiz entails to developing a Dynamic Financial Planning Application that has a seemless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the front end, Node JS for the backend and Firebase for the data of the application. "
             },
             {
-                "company":"sample",
-                "title":"samples",
-                "years":"20xx - 20xx",
-                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                "company":"37 Daweson Street",
+                "title":"Bar Support Staff",
+                "years":"9th December 2016 – 23rd of January 2017",
+                "description":"My role as part of the bar support team was to maintain the Whisky Bar, Dancefloor, Bin Room, Mezzanine and outside Smoking area. Some of the responsibities I had were as follows: Collecting Glasses, Changing Bins, Tidying the Bin Rooms, Cleaning up Spillages, Answering and Recieving Radio Calls."
             },
             {
-                "company":"sample",
-                "title":"samples",
-                "years":"20xx - 20xx",
-                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                "company":"3rd June 2013 – 3th May 2016",
+                "title":"Volunteer",
+                "years":"Oxfam Malahide",
+                "description":"My responsibities as a Volunteer in Oxfam include: Trouble Shooting and Solivng issues with the Cash Register System, Operating the Cash Register System, Managing the Shop Phone and Serving Customers on the Till."
             }
         ],
 
@@ -117,7 +116,7 @@
             }
  
         ],
-        "skills_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        "skills_description":"Have knowledge of the following technologies: Python3, JavaScript, React,Redux,Axios,Node.js,ES6, Ruby, Ruby on Rails, HTML, Javascript, & Java."
     },
     "portfolio":{
         "projects":[
