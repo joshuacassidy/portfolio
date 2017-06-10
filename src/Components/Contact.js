@@ -2,6 +2,19 @@ import React, { Component } from 'react';
 
 class Contact extends Component {
   render() {
+      if(this.props.data){
+        var name = this.props.data.name;
+        var image = this.props.data.image;
+        var contact = this.props.data.contact;
+        var street = this.props.data.address.street;
+        var city = this.props.data.address.city;
+        var state = this.props.data.address.state;
+        var country = this.props.data.address.country;
+        var phone = this.props.data.phone;
+        var email = this.props.data.email;
+        var resumeDownload = this.props.data.resumedownload;
+      }
+
     return (
       <section id="contact">
          <div className="row section-head">
@@ -10,9 +23,8 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-                  <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                  voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                  <p className="lead">
+                    {contact}
                   </p>
 
             </div>
@@ -68,10 +80,10 @@ class Contact extends Component {
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">
-						   Jonathan Doe<br />
-						   1600 Amphitheatre Parkway <br />
-						   Mountain View, CA 94043 US<br />
-						   <span>(123) 456-7890</span>
+						   {name}<br />
+						   {street} <br />
+						   {city}, {state}, {country}<br />
+						   <span>{phone}</span>
 					   </p>
 
 				   </div>

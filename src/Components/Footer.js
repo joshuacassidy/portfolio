@@ -11,7 +11,7 @@ class Footer extends Component {
 
 
             <ul className="copyright">
-               <li>&copy; Copyright 2014 CeeVee</li>
+               <li>&copy; Copyright Joshua Cassidy</li>
                <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
             </ul>
 

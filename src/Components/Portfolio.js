@@ -7,9 +7,9 @@ class Portfolio extends Component {
         var link = project.url
 
           var imageUrl = 'images/portfolio/'+project.image;
-        return <div className="columns portfolio-item">
+        return                <a title="Styleshout" href={project.url}><div className="columns portfolio-item">
                   <div className="item-wrap">
-              
+                  
 
                      
                         <img alt="" src={imageUrl} />
@@ -22,7 +22,7 @@ class Portfolio extends Component {
                      
 
                   </div>
-          		</div>
+          		</div></a>
       });
     }
     return (
@@ -33,7 +33,6 @@ class Portfolio extends Component {
             <h1>Check Out Some of My Works.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-
           	  {portfolio}
 
             </div>
