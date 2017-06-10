@@ -24,7 +24,7 @@ class Contact extends Component {
 
             <div className="ten columns">
                   <p className="lead">
-                    {contact}
+                    {contact} 
                   </p>
 
             </div>
@@ -82,12 +82,14 @@ class Contact extends Component {
 
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Address</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
-						   {city}, {state}, {country}<br />
-						   <span>{phone}</span>
+						   {city}, {country}<br />
+						   <span><a href="tel:0831880578">{phone}</a></span>
+               <br/>
+               <span><a className="emailLink" href="mailto:Joshcasidy79@email.com">{email}</a></span>
 					   </p>
 
 				   </div>

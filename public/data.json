@@ -7,7 +7,7 @@
     "bio":"My name is Joshua Cassidy and I am currently in first year at the National College of Ireland attending the BSc (Honours) in Computing course. I have started programming initially when I was 16, in java, where I learned for two years before branching out into other technolgies such as Python, JavaScript, React JS, C#, Ruby etc.",
     "email":"Joshcassidy79@gmail.com",
     "phone":"083-188-0578",
-    "contact":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "contact":"If you have any questions or would just like to chat feel free to contact me.",
     "address":{
         "street":"6 Hill Drive",
         "area":"Malahide",
@@ -86,15 +86,15 @@
                 "name":"Java",
                 "level":"87%"
             },
-                        {
+            {
                 "name":"React",
                 "level":"30%"
             },
-                        {
+            {
                 "name":"Git",
                 "level":"81%"
             },
-                               {
+            {
                 "name":"HTML5",
                 "level":"66%"
             },
@@ -106,7 +106,7 @@
                 "name":"JSON",
                 "level":"79%"
             },
-                        {
+            {
                 "name":"Web Design",
                 "level":"60%"
             },
@@ -114,11 +114,11 @@
                 "name":"Hard Working",
                 "level":"90%"
             },
-                        {
+            {
                 "name":"Ruby",
-                "level":"55%"
+                "level":"13%"
             },
-                        {
+            {
                 "name":"Customer Service",
                 "level":"70%"
             },
@@ -126,33 +126,26 @@
                 "name":"Node",
                 "level":"20%"
             },
-     {
+            {
                 "name":"Python3",
                 "level":"75%"
             },
-
               {
                 "name":"Game Development",
                 "level":"77%"
             },
-
-
             {
                 "name":"JavaScript",
                 "level":"68%"
             },
-
-              {
+            {
                 "name":"Firebase",
                 "level":"18%"
-            },   
+            },
             {
                 "name":"Team Work",
                 "level":"85%"
             },
-            
-
-
             {
                 "name":"Mongo Database",
                 "level":"15%"
@@ -161,54 +154,181 @@
                 "name":"Computer Hardware",
                 "level":"83%"
             },
-
-            
-
-       
-            
-
             {
                 "name":"Redux",
                 "level":"10%"
             }
-        
 
-        
- 
         ]
     },
     "portfolio":{
         "projects":[
             {
-                "title":"samples",
+                "title":"Financial Statement Analysis",
                 "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                "category":"Web Design",
-                "image":"console.jpg",
-                "url":"https://google.com",
+                "category":"Using Python3 to analysis a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Financial-Statement-Analysis",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"React Weather Application",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A dynamic web application that can tell users the weather forecast in Ireland for the next five days. This application is developed in React and Redux that uses the open weather api.",
+                "image":"react.svg",
+                "url":"https://github.com/joshuacassidy/React-Weather-App",
                 "modal":"#modal-1"
             },
                         {
-                "title":"samples2",
+                "title":"Law of the Large Numbers",
                 "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                "category":"Web Design",
-                "image":"coffee.jpg",
-                "url":"https://google.com",
-                "modal":"#modal-1"
-            },
-                        {
-                "title":"samples",
-                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                "category":"Web Design",
-                "image":"coffee.jpg",
-                "url":"https://google.com",
+                "category":"A Python3 program that proves the Law of the Large Numbers therom. The user chooses the sample size of randomly normally distributed numbers for the program to prove the therom based on these numbers generated.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/law-of-the-large-numbers",
                 "modal":"#modal-1"
             },            
             {
-                "title":"samples",
+                "title":"Binary Adder",
                 "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                "category":"Web Design",
-                "image":"coffee.jpg",
-                "url":"https://google.com",
+                "category":"A JavaScript program that adds two binary numbers together using only logic gates (the and, or and not operators) then presenting the, in the format of 0010 0011",
+                "image":"js.png",
+                "url":"https://github.com/joshuacassidy/Binary-Adder",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Moatview Early Education Centre",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"moatvieweec.com was developed for the purpose of Webmas 2016 which is an event organised to support charitable causes by giving them an online presence. This website was developed by the team I was on. ",
+                "image":"wordpress.jpg",
+                "url":"http://moatvieweec.com/",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"React Survey",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A single page survey application that asks users questions and posts the results to a database. This application is developed in React and Firebase.",
+                "image":"react.svg",
+                "url":"https://github.com/joshuacassidy/React-Survey",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"React Video Player",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A React Application that uses the YouTube search API that allows users to search and watch videos.",
+                "image":"react.svg",
+                "url":"https://github.com/joshuacassidy/Video-Player",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Fibonacci Sequence",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A program that displays the first x number of terms of the Fibonacci Sequence where x is chosen by the user.",
+                "image":"js.png",
+                "url":"https://github.com/joshuacassidy/Fibonacci-Sequence",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Fibonacci Sequence",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A program that displays the first x number of terms of the Fibonacci Sequence where x is chosen by the user.",
+                "image":"js.png",
+                "url":"https://github.com/joshuacassidy/Fibonacci-Sequence",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Hotel Rooms Maths Problem",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A maths problem where a customer to a hotel has lost their key. The room keys properties are the non-trivial divisors sum to a number greater than the room number and set of non-trivial divisors has no subset whose sum is equal to the room number.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Hotel-Rooms-Maths-Problem",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Input Event",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"This is a boilerplate program that is used to have a web page respond when a certain sequence of keys is input. The program waits for the user to input a certain string of character. When the user inputs that string that string of characters they get an alert.",
+                "image":"js.png",
+                "url":"https://github.com/joshuacassidy/InputEvent",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Song Player",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"This is a music player made in java that uses a websites Url for the song to be played the songs are stored in the songs.txt file and can be added into the program by using the applications interface or adding a song in manually in the format of: Artist Name | Song Name | Song URL.",
+                "image":"java.png",
+                "url":"https://github.com/joshuacassidy/SongPlayer",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Number Converter",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A program written in python, that can convert a decimal number to binary,hexadecimal or octal. This program can also convert a binary, hexadecimal or octal number into decimal.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/NumberConverter",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Number Converter",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A program written in python, that can convert a decimal number to binary,hexadecimal or octal. This program can also convert a binary, hexadecimal or octal number into decimal.",
+                "image":"java.png",
+                "url":"https://github.com/joshuacassidy/SongPlayer",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Veggie Guesser",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A command line interface vegetable guessing game that is made in python.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Veggie-Guesser",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Number Guessing Game",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"This is a command line interface numbers guessing game made in python where users can choose whether or not the would like to range of the numbers to be guessed between. Users can also choose if they want to set the amount of guesses.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Number-Guessing-Game",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Number Guessing Game",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"This is a command line interface numbers guessing game made in python where users can choose whether or not the would like to range of the numbers to be guessed between. Users can also choose if they want to set the amount of guesses.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Number-Guessing-Game",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"To-do List",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"A command line interface To-Do List Application made in Python.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Number-Guessing-Game",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Individual Sites",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"Individual Sites is My First Year Semester One Web Design Project for National College of Ireland.",
+                "image":"html.jpg",
+                "url":"https://github.com/joshuacassidy/Web-Design-Project-2016",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Ruby Rock Paper Scissors",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"Rock Paper Scissors made with the ruby shoes GUI.",
+                "image":"ruby.png",
+                "url":"https://github.com/joshuacassidy/RockPaperScissors",
+                "modal":"#modal-1"
+            },
+            {
+                "title":"Ruby Counting Words in a String",
+                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "category":"Ruby program that counts the amount of words in a string that excludes special characters and numbers.",
+                "image":"ruby.png",
+                "url":"https://github.com/joshuacassidy/Counting-Words-in-a-String",
                 "modal":"#modal-1"
             }
         ]
