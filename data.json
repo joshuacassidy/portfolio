@@ -4,7 +4,7 @@
     "occupation": "Student",
     "description": "Currently studying a BSc (Honours) in Computing at the National College of Ireland.",
     "image": "https://avatars0.githubusercontent.com/u/18393831?v=3&u=ef3575617707cad0977e3d3ebf653e8a784779e4&s=400",
-    "bio":"My name is Joshua Cassidy, I’m twenty years old and currently in my first year at the National College of Ireland attending the BSc (Honours) in Computing course. I'm Hard working and work off my own initiative. I started programming initially when I was 16, in Java, where I learned for two years before branching out into other technolgies such as Python3, JavaScript, React JS,C#, Ruby, Java, HTML, CSS, WordPress, BootStrap, Git, Node, Mongo Database, Redux and JSON.",
+    "bio":"My name is Joshua Cassidy, I’m twenty years old and currently in my first year at the National College of Ireland attending the BSc (Honours) in Computing course. I'm Hard working and work on my own initiative. I started programming initially when I was 16, in Java, where I learned for two years before branching out into other technologies such as Python, JavaScript, React JS, C#, Ruby, Java, HTML, CSS, WordPress, BootStrap, Git, Node, Mongo Database, Redux and JSON.",
     "email":"Joshcassidy79@gmail.com",
     "phone":"083-188-0578",
     "contact":"If you have any questions or would just like to chat feel free to contact me.",
@@ -50,13 +50,13 @@
                 "school":"Mount Temple Comprehensive School",
                 "certificate":"Leaving Certificate",
                 "graduated": "September 2009 - May 2015",
-                "description":" In May 2015, I graduated from Mount Temple Comprehensive School where I completed my Leaving Certificate. My choice subjects were Engineering, Economics and German."
+                "description":"In May 2015, I graduated from Mount Temple Comprehensive School where I completed my Leaving Certificate. My choice subjects were Engineering, Economics and German."
             },
             {
                 "school":"Nation College of Ireland",
                 "certificate":"Degree",
                 "graduated": "September 2016 - Present",
-                "description":"In September 2016 I started Bachelor's degree in Computing. The modules which I have currently undertaken are: Web Design, Introduction to Programming, Introduction to Maths for Business and Computing, Problem Solving and Programming Concepts, Software Applications for Business, The Computing Industry, Operating Systems, Computer Architechture, Digital Multimedia and Managing Your Learning."
+                "description":"In September 2016 I started Bachelor's degree in Computing. The modules which I have currently undertaken are Web Design, Introduction to Programming, Introduction to Maths for Business and Computing, Problem Solving and Programming Concepts, Software Applications for Business, The Computing Industry, Operating Systems, Computer Architecture, Digital Multimedia and Managing Your Learning."
             }
         ],
         "work":[
@@ -64,19 +64,19 @@
                 "company":"Webbiz",
                 "title":"Web Application Intern",
                 "years":"15th May 2017 - Present",
-                "description":"My position in Webbiz entails developing a Dynamic Financial Planning Application that has a seemless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead. This application is being developed using React JS for the front end, Node JS for the backend and Firebase for the data of the application.  "
+                "description":"My position in Webbiz entails to developing a Dynamic Financial Planning Application that has a seamless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the Front-end, Node JS for the Back-end and Firebase for the database of the application."
             },
             {
                 "company":"37 Daweson Street",
                 "title":"Bar Support Staff",
                 "years":"9th December 2016 – 23rd of January 2017",
-                "description":"My role as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and recieving radio calls."
+                "description":"My role as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibilities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and receiving radio calls."
             },
             {
                 "company":"Oxfam Malahide",
                 "title":"Volunteer",
                 "years":"3rd June 2013 – 3th May 2016",
-                "description":"My responsibities as a volunteer in Oxfam included: trouble shooting and solivng issues with the cash register system, operating the cash register system, managing the shop phone and serving customers on the till, culled old stock and sorted through donations in order to decide which items were of merchanable quality."
+                "description":"My responsibilities as a volunteer in Oxfam included: trouble shooting and solving issues with the cash register system, operating the cash register system, managing the shop phone, Serving customers and sorted through donations in order to decide which items were of merchantable quality."
             }
         ],
 
@@ -86,7 +86,7 @@
                 "level":"85%"
             },
              {
-                "name":"Computer Architechture",
+                "name":"Computer Architecture",
                 "level":"90%"
             },
             {
@@ -146,7 +146,7 @@
                 "level":"20%"
             },
             {
-                "name":"Python3",
+                "name":"Python",
                 "level":"75%"
             },
             {
@@ -179,31 +179,31 @@
         "projects":[
             {
                 "title":"Financial Statement Analysis",
-                "category":"Using Python3 to analysis a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",
+                "category":"Using Python to analysis a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",
                 "image":"py.png",
                 "url":"https://github.com/joshuacassidy/Financial-Statement-Analysis"
             },
             {
                 "title":"React Weather Application",
-                "category":"A dynamic web application that can tell users the weather forecast in Ireland for the next five days. This application is developed in React and Redux that uses the open weather api.",
+                "category":"A dynamic web application that can tell users the weather forecast in Ireland for the next five days. This application is developed in React and Redux that uses the open weather API.",
                 "image":"react.svg",
                 "url":"https://github.com/joshuacassidy/React-Weather-App"
             },
                         {
                 "title":"Law of the Large Numbers",
-                "category":"A Python3 program that proves the Law of the Large Numbers therom. The user chooses the sample size of randomly normally distributed numbers for the program to prove the therom based on these numbers generated.",
+                "category":"A Python program that proves the Law of the Large Numbers theorem. The user chooses the sample size of randomly normally distributed numbers for the program to prove the theorem based on these numbers generated.",
                 "image":"py.png",
                 "url":"https://github.com/joshuacassidy/law-of-the-large-numbers"
             },            
             {
                 "title":"Binary Adder",
-                "category":"A JavaScript program that adds two binary numbers together using only logic gates (the and, or and not operators) then presenting the, in the format of 0010 0011",
+                "category":"A JavaScript program that adds two binary numbers together using only logic gates (the and, or and not operators) then presenting the, in the format of 0010 0011.",
                 "image":"js.png",
                 "url":"https://github.com/joshuacassidy/Binary-Adder"
             },
             {
                 "title":"Moatview Early Education Centre",
-                "category":"moatvieweec.com was developed for the purpose of Webmas 2016 which is an event organised to support charitable causes by giving them an online presence. This website was developed by the team I was on. ",
+                "category":"moatvieweec.com was developed for the purpose of Webmas 2016 which is an event organised to support charitable causes by giving them an online presence. This website was developed by the team I was on.",
                 "image":"wordpress.jpg",
                 "url":"http://moatvieweec.com/"
             },
@@ -221,7 +221,7 @@
             },
             {
                 "title":"Fibonacci Sequence",
-                "category":"A program that displays the first x number of terms of the Fibonacci Sequence where x is chosen by the user.",
+                "category":"A JavaScript program that displays the first x number of terms of the Fibonacci Sequence where x is chosen by the user.",
                 "image":"js.png",
                 "url":"https://github.com/joshuacassidy/Fibonacci-Sequence"
             },
@@ -239,13 +239,13 @@
             },
             {
                 "title":"Song Player",
-                "category":"This is a music player made in java that uses a websites Url for the song to be played the songs are stored in the songs.txt file and can be added into the program by using the applications interface or adding a song in manually in the format of: Artist Name | Song Name | Song URL.",
+                "category":"This is a music player made in java that uses a websites Url for the song to be played the songs are stored in the songs.txt file and can be added into the program by using the application's interface or adding a song in manually in the format of Artist Name | Song Name | Song URL.",
                 "image":"java.png",
                 "url":"https://github.com/joshuacassidy/SongPlayer"
             },
             {
                 "title":"Number Converter",
-                "category":"A program written in python, that can convert a decimal number to binary,hexadecimal or octal. This program can also convert a binary, hexadecimal or octal number into decimal.",
+                "category":"A program is written in Python, that can convert a decimal number to binary, hexadecimal or octal. This program can also convert a binary, hexadecimal or octal number into decimal.",
                 "image":"py.png",
                 "url":"https://github.com/joshuacassidy/NumberConverter"
             },
@@ -257,7 +257,7 @@
             },
             {
                 "title":"Number Guessing Game",
-                "category":"This is a command line interface numbers guessing game made in python where users can choose whether or not the would like to range of the numbers to be guessed between. Users can also choose if they want to set the amount of guesses.",
+                "category":"This is command line interface numbers guessing game made in Python where users can choose whether or not the would like to range of the numbers to be guessed between. Users can also choose if they want to set a number of guesses.",
                 "image":"py.png",
                 "url":"https://github.com/joshuacassidy/Number-Guessing-Game"
             },
@@ -282,7 +282,7 @@
             },
             {
                 "title":"Ruby Counting Words in a String",
-                "category":"Ruby program that counts the amount of words in a string that excludes special characters and numbers.",
+                "category":"Ruby program that counts a number of words in a string that excludes special characters and numbers.",
                 "image":"ruby.png",
                 "url":"https://github.com/joshuacassidy/Counting-Words-in-a-String"
             }
