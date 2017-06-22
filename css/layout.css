@@ -408,6 +408,26 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: redux 2s ease;
   	-webkit-animation: redux 2s ease;
 }
+.computerarchitechture {
+  	-moz-animation: computerarchitechture 2s ease;
+  	-webkit-animation: computerarchitechture 2s ease;
+}
+.problemsolving {
+  	-moz-animation: problemsolving 2s ease;
+  	-webkit-animation: problemsolving 2s ease;
+}
+.technicalskills {
+  	-moz-animation: technicalskills 2s ease;
+  	-webkit-animation: technicalskills 2s ease;
+}
+.c {
+  	-moz-animation: c 2s ease;
+  	-webkit-animation: c 2s ease;
+}
+.bootstrap {
+  	-moz-animation: bootstrap 2s ease;
+  	-webkit-animation: bootstrap 2s ease;
+}
 
 @-moz-keyframes hardworking {
   0%   { width: 0px;  }
@@ -436,7 +456,7 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes gamedevelopment {
   0%   { width: 0px;  }
-  100% { width: 77%;  }
+  100% { width: 55%;  }
 }
 
 @-moz-keyframes python3 {
@@ -489,6 +509,27 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 10%;  }
 }
+@-moz-keyframes computerarchitechture {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes problemsolving {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes technicalskills {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes c {
+  0%   { width: 0px;  }
+  100% { width: 23%;  }
+}
+@-moz-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+
 
 @-webkit-keyframes hardworking {
   0%   { width: 0px;  }
@@ -517,7 +558,7 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes gamedevelopment {
   0%   { width: 0px;  }
-  100% { width: 77%;  }
+  100% { width: 55%;  }
 }
 
 @-webkit-keyframes python3 {
@@ -569,6 +610,31 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 10%;  }
 }
+
+@-webkit-keyframes computerarchitechture {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+
+@-webkit-keyframes problemsolving {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+
+@-webkit-keyframes technicalskills {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes c {
+  0%   { width: 0px;  }
+  100% { width: 23%;  }
+}
+@-webkit-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+
+
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
