@@ -408,9 +408,9 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: redux 2s ease;
   	-webkit-animation: redux 2s ease;
 }
-.computerarchitechture {
-  	-moz-animation: computerarchitechture 2s ease;
-  	-webkit-animation: computerarchitechture 2s ease;
+.computerarchitecture {
+  	-moz-animation: computerarchitecture 2s ease;
+  	-webkit-animation: computerarchitecture 2s ease;
 }
 .problemsolving {
   	-moz-animation: problemsolving 2s ease;
@@ -509,7 +509,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 10%;  }
 }
-@-moz-keyframes computerarchitechture {
+@-moz-keyframes computerarchitecture {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
@@ -611,7 +611,7 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 10%;  }
 }
 
-@-webkit-keyframes computerarchitechture {
+@-webkit-keyframes computerarchitecture {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
