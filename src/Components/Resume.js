@@ -31,8 +31,13 @@ class Resume extends Component {
 
       var skills = this.props.data.skills.map(function(skill){
             var className = 'bar-expand '+(skill.name.toLowerCase().replace(/\s/g, ''));
-             console.log(className)
+           // console.log(className)
             return <li key={skill.name}><span style={{width:skill.level}} className={className}></span><em>{skill.name}</em></li>
+      });
+      var programming_experience = this.props.data.programming_experience.map(function(experience){
+            var className = 'bar-expand '+(experience.name.toLowerCase().replace(/\s/g, '')).replace('#', '');
+            //  console.log(className)
+            return <li key={experience.name}><span style={{width:experience.level}} className={className}></span><em>{experience.name}</em></li>
       });
       var skills_description = this.props.data.skills_description;
     }
@@ -47,6 +52,7 @@ class Resume extends Component {
             {education}
          </div>
       </div>
+
 
       <div className="row work">
          <div className="three columns header-col">
@@ -71,6 +77,30 @@ class Resume extends Component {
 				</div>
 			</div>
       </div>
+
+   
+
+      <div className="row work">
+         <div className="three columns header-col">
+         </div>
+      </div>
+
+
+      <div className="row skill">
+         <div className="three columns header-col">
+            <h1><span>Technologies</span></h1>
+         </div>
+         <div className="nine columns main-col">
+            <p>{skills_description}</p>
+				<div className="bars">
+				   <ul className="skills">
+					  {programming_experience}
+					</ul>
+				</div>
+			</div>
+      </div>
+
+
    </section>
     );
   }

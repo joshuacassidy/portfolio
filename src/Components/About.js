@@ -8,11 +8,10 @@ class About extends Component {
         var bio = this.props.data.bio;
         var street = this.props.data.address.street;
         var city = this.props.data.address.city;
-        var state = this.props.data.address.state;
-        var zip = this.props.data.address.zip;
+        var area = this.props.data.address.area;
+        var country = this.props.data.address.country;
         var phone = this.props.data.phone;
         var email = this.props.data.email;
-        var resumeDownload = this.props.data.resumedownload;
     }
     return (
       <section id="about">
@@ -29,11 +28,14 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city}, {state} {zip}
-                     </span><br />
+						   <span>
+                 {street}, <br />
+                  {area}, <br />
+						      {city},<br />
+                  {country}<br />
+                     </span>
 						  <span><a href="tel:0831880578">{phone}</a></span><br />
-              <span><a className="emailLink" href="mailto:Joshcasidy79@gmail.com">{email}</a></span>
+              <span><a className="emailLink" href="mailto:Joshcassidy79@gmail.com">{email}</a></span>
 					   </p>
                </div>
                <div className="columns download">

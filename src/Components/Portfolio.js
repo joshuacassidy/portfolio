@@ -4,23 +4,16 @@ class Portfolio extends Component {
   render() {
     if(this.props.data){
       var portfolio = this.props.data.projects.map(function(project){
-        var link = project.url
-
-          var imageUrl = 'images/portfolio/'+project.image;
-        return                <a title="Styleshout" href={project.url}><div className="columns portfolio-item">
+      var imageUrl = 'images/portfolio/'+project.image;
+        return <a title="Styleshout" href={project.url} key={project.title} ><div className="columns portfolio-item">
                   <div className="item-wrap">
-                  
-
-                     
                         <img alt="" src={imageUrl} />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>{project.title}</h5>
                               <p>{project.category}</p>
-          					   </div>
+          					   </div> 
                         </div>
-                     
-
                   </div>
           		</div></a>
       });
@@ -30,7 +23,7 @@ class Portfolio extends Component {
       <div className="row">
 
          <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>CHECK OUT SOME OF THE PROJECTS I'VE CREATED.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           	  {portfolio}

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Testimonials extends Component {
   render() {
-        if(this.props.data){
+        /*if(this.props.data){
 
       var testimonials = this.props.data.testimonials.map(function(testimonial){
         return <li>
@@ -13,7 +13,7 @@ class Testimonials extends Component {
                         </blockquote>
                      </li>
       });
-        }
+        }*/
     return (
       <section id="testimonials">
       {/*<div className="text-container">

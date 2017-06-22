@@ -4,15 +4,13 @@ class Contact extends Component {
   render() {
       if(this.props.data){
         var name = this.props.data.name;
-        var image = this.props.data.image;
         var contact = this.props.data.contact;
         var street = this.props.data.address.street;
         var city = this.props.data.address.city;
-        var state = this.props.data.address.state;
+        var area = this.props.data.address.area;
         var country = this.props.data.address.country;
         var phone = this.props.data.phone;
         var email = this.props.data.email;
-        var resumeDownload = this.props.data.resumedownload;
       }
 
     return (
@@ -58,7 +56,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button  type = "submit" method="POST" action="https://formspree.io/Joshuacassidy79@gmail.com">Submit</button>
+                     <button  type = "submit" method="POST" action="https://formspree.io/Joshcassidy79@gmail.com">Submit</button>
                      
 
                                               
@@ -85,11 +83,13 @@ class Contact extends Component {
 					   <h4>Address</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {city}, {country}<br />
+						   {street}, <br />
+               {area} <br />
+						   {city},<br />
+              {country}<br />
 						   <span><a href="tel:0831880578">{phone}</a></span>
                <br/>
-               <span><a className="emailLink" href="mailto:Joshcasidy79@gmail.com">{email}</a></span>
+               <span><a className="emailLink" href="mailto:Joshcassidy79@gmail.com">{email}</a></span>
 					   </p>
 
 				   </div>
