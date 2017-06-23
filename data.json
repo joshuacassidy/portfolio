@@ -39,7 +39,7 @@
         },
          {
             "name":"skype",
-            "url":"skype:live:x15378586",
+            "url":"skype:live:x15378586?userinfo",
             "className":"fa fa-skype"
         }
     ]
@@ -75,7 +75,7 @@
             {
                 "company":"Oxfam Malahide",
                 "title":"Volunteer",
-                "years":"3rd June 2013 – 3th May 2016",
+                "years":"3rd June 2013 – 3rd May 2016",
                 "description":"My responsibilities as a volunteer in Oxfam included: troubleshooting and solving issues with the cash register system, operating the cash register system, managing the shop phone, Serving customers and sorted through donations in order to decide which items were of merchantable quality."
             }
         ],
@@ -177,6 +177,12 @@
     },
     "portfolio":{
         "projects":[
+            {
+                "title":"JSX to React Compiler",
+                "category":"A React Single Page Application that transpiles ecmascript 2016 code to compiled react code live in the browser.",
+                "image":"react.svg",
+                "url":"https://github.com/joshuacassidy/JSX-to-React-Compiler"
+            },
             {
                 "title":"Financial Statement Analysis",
                 "category":"Using Python to analysis a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",

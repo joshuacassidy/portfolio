@@ -170,6 +170,14 @@ blockquote cite {
    font-style: normal;
    line-height: 18px;
 }
+.x{
+    margin: 1em auto !important;
+    text-align: center !important;
+    background: #e2e2e2 !important;
+}
+.y{
+    text-align: center !important;
+}
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a,
 blockquote cite a:visited { color: #8B9798; border: none }
