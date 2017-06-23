@@ -1,18 +1,8 @@
-/* ==================================================================
-
-*   Ceevee Media Queries
-*   url: styleshout.com
-*   03-18-2014
-
-/* ================================================================== */
 
 
-/* screenwidth less than 1024px
---------------------------------------------------------------------- */
 @media only screen and (max-width: 1024px) {
 
-    /* header styles
-   ------------------------------------------------------------------ */
+
    header .banner-text h1 {
       font: 80px/1.1em 'opensans-bold', sans-serif;
       letter-spacing: -1px;
@@ -21,12 +11,9 @@
 
 }
 
-/* screenwidth less than 900px
---------------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
 
-    /* header styles
-   ------------------------------------------------------------------ */
+
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
       font: 78px/1.1em 'opensans-bold', sans-serif;
@@ -47,8 +34,6 @@
    }
 
 
-   /* About Section
-   ------------------------------------------------------------------- */
    #about .profile-pic {
       width: 114px;
       height: 114px;
@@ -57,13 +42,9 @@
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
 
-   /* Resume Section
-   ------------------------------------------------------------------- */
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
-   /* Testimonials Section
-   ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
@@ -73,15 +54,11 @@
       line-height: 46px;      
    }
 
-    /* Call to Action Section
-   ------------------------------------------------------------------- */
    #call-to-action .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
 
-   /* Contact Section
-   ------------------------------------------------------------------- */
    #contact .section-head { margin-bottom: 30px; }
    #contact .header-col h1:before {
       font-size: 66px;
@@ -92,13 +69,9 @@
 
 }
 
-/* mobile wide/smaller tablets
----------------------------------------------------------------------- */
 
 @media only screen and (max-width: 767px) {
 
-   /* mobile navigation
-   -------------------------------------------------------------------- */
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
       background: transparent !important;

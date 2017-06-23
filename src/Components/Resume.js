@@ -51,8 +51,11 @@ class Resume extends Component {
          <div className="nine columns main-col">
             {education}
          </div>
+          {/*<p className="y">
+                     <a href="CV.pdf" download className="x button"><i className="fa fa-download"></i> Download Results Transcript</a>
+                  </p>*/}
       </div>
-
+     
 
       <div className="row work">
          <div className="three columns header-col">
