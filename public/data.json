@@ -63,7 +63,7 @@
             {
                 "company":"Webbiz",
                 "title":"Web Application and API Intern",
-                "years":"15th May 2017 - Present",
+                "years":"15th May 2017 - 4th September 2017",
                 "description":"My position in Webbiz entailed working both remote and working on site, to developing a Dynamic Financial Planning Application that has a seamless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the Front-end. The application was styled with Bootstrap and CSS. The application also required an API to connect to in order to send emails and receive data from the database, this API also adds new records to the database when ever the form is submitted. The API makes use of CORS to only allow authorised URL's to make requests to the API. The database that was used initially was firebase but it was later decided for the application to use mongoose with mlab. The testing framework that was used to test react application was Jest and the testing framework that was used to test the node API was mocha and chai. Both the application and the API had documentation written for them so other developers in the company can add and remove feature's where necessary. During development, the application and API were deployed on Heroku to test their behavior in an online environment. The codebase that was used during the development of the application and API was BitBucket. When the development, testing, and documentation of the API and application were completed they were presented to the CEO and Lead Developer of Webbiz."
             },
             {
