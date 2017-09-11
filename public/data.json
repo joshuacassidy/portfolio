@@ -9,7 +9,7 @@
     "phone":"083-188-0578",
     "contact":"If you have any questions or would just like to chat feel free to contact me.",
     "address":{
-        "street":"6 Hill Drive",
+        "street":"Hill Drive",
         "area":"Malahide",
         "city":"Dublin",
         "country":"Ireland"
@@ -62,9 +62,9 @@
         "work":[
             {
                 "company":"Webbiz",
-                "title":"Web Application Intern",
+                "title":"Web Application and API Intern",
                 "years":"15th May 2017 - Present",
-                "description":"My position in Webbiz entails to developing a Dynamic Financial Planning Application that has a seamless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the Front-end, Node JS for the Back-end and Firebase for the database of the application."
+                "description":"My position in Webbiz entailed working both remote and working on site, to developing a Dynamic Financial Planning Application that has a seamless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the Front-end. The application was styled with Bootstrap and CSS. The application also required an API to connect to in order to send emails and receive data from the database, this API also adds new records to the database when ever the form is submitted. The API makes use of CORS to only allow authorised URL's to make requests to the API. The database that was used initially was firebase but it was later decided for the application to use mongoose with mlab. The testing framework that was used to test react application was Jest and the testing framework that was used to test the node API was mocha and chai. Both the application and the API had documentation written for them so other developers in the company can add and remove feature's where necessary. During development, the application and API were deployed on Heroku to test their behavior in an online environment. The codebase that was used during the development of the application and API was BitBucket. When the development, testing, and documentation of the API and application were completed they were presented to the CEO and Lead Developer of Webbiz."
             },
             {
                 "company":"37 Daweson Street",
@@ -115,11 +115,11 @@
         "programming_experience":[
             {
                 "name":"Java",
-                "level":"87%"
+                "level":"89%"
             },
             {
                 "name":"React",
-                "level":"30%"
+                "level":"70%"
             },
             {
                 "name":"Git",
@@ -143,7 +143,7 @@
             },
             {
                 "name":"Node",
-                "level":"20%"
+                "level":"70%"
             },
             {
                 "name":"Python",
@@ -151,7 +151,7 @@
             },
             {
                 "name":"BootStrap",
-                "level":"50%"
+                "level":"80%"
             },
             {
                 "name":"C#",
@@ -159,24 +159,100 @@
             },
             {
                 "name":"JavaScript",
-                "level":"68%"
+                "level":"88%"
             },
             {
                 "name":"Firebase",
-                "level":"18%"
+                "level":"78%"
             },
             {
                 "name":"Mongo Database",
-                "level":"15%"
+                "level":"85%"
+            },
+            {
+                "name":"Mocha",
+                "level":"78%"
+            },
+            {
+                "name":"Chai",
+                "level":"78%"
+            },
+            {
+                "name":"Jest",
+                "level":"30%"
+            },
+            {
+                "name":"JUnit",
+                "level":"35%"
             },
             {
                 "name":"Redux",
-                "level":"10%"
+                "level":"30%"
             }
         ]
     },
     "portfolio":{
         "projects":[
+            {
+                "title":"Solar System",
+                "category":"The purpose of this program is to demonstrate how Sets interface and Serialisation works. The program reads in a a list of planets moons from two binary files and prints out the body type of the moon or planet, its orbital period and its name.",
+                "image":"java.png",
+                "url":"https://github.com/joshuacassidy/Solar-System"
+            },
+            {
+                "title":"Financial Planning Application",
+                "category":"The Financial Planning Application was developed for Webbiz. This is a dynamic Web Application which created in React and tested with Jest. The Application a API in order to send email and get and post data to.",
+                "image":"react.svg",
+                "url":"https://webbiz.herokuapp.com/"
+            },
+            {
+                "title":"Financial Planning Application API",
+                "category":"The Financial Planning Application API was developed for Webbiz. The API connects to a Mongo database which the API recieves data from. Financial Planning Application manages the data and emails for the Financial Planning Application.",
+                "image":"node.png",
+                "url":"https://webbiz.herokuapp.com/"
+            },
+            {
+                "title":"Theatre Seats Planner",
+                "category":"The purpose of this program is to demonstrate how ArrayList interface works. The program allows seats to be reserved or canceled. The program also prints out the reserved seats.",
+                "image":"java.png",
+                "url":"https://github.com/joshuacassidy/Theatre-Seats-Planner"
+            },
+            {
+                "title":"Trip Planner",
+                "category":"The purpose of this  program is to demonstrate how Linked List interface works. The program that reads in a list of cities from a file, and allows users to go to the next city in the list, the previous city or print the list of cities.",
+                "image":"java.png",
+                "url":"https://github.com/joshuacassidy/Trip-Planner"
+            },
+            {
+                "title":"Grocery List",
+                "category":"A Grocery List program that allows user's to add an item to the grocery list, modify items in the grocery list, remove items from the grocery list, search for items in the grocery list and print out the contents of the grocery list.",
+                "image":"java.png",
+                "url":"https://github.com/joshuacassidy/Grocery-List/"
+            },
+            {
+                "title":"Movies Domestic Gross By Genre Analysis",
+                "category":"Using the Python Seaborn Library to show Domestic Gross by Genre on a box plot graph.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Movies-Domestic-Gross-By-Genre-Analysis"
+            },
+            {
+                "title":"Movie Ratings Analysis",
+                "category":"Using the Python Seaborn Library to show the distributions of the audience and critic ratings. Using a facet grid to display a violin plot that plots the movies budget against the year of creation, a kde plot which plots the relationdship between critic and audience ratings.",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Movie-Ratings-Analysis"
+            },
+            {
+                "title":"World Trends Analysis",
+                "category":"Using the Python Seaborn and Pandas Libraries to show plot the BirthRate against LifeExpectancy categorized by Country Region in 1960 and 2013, BirthRate against Internet Users categorized by Income Group and Country's Region",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/World-Trends-Analysis"
+            },
+            {
+                "title":"Basketball Statistics Analysis",
+                "category":"Using Python to analyse basketball players preformance from 2005-2014, Some of the elements analysed are the overall players points scored per season,the saleries of the player per season, points scored per season, amount of free throws by players, the players free throw accuracy, players throw accuracy etc. ",
+                "image":"py.png",
+                "url":"https://github.com/joshuacassidy/Basketball-Statistics-Analysis"
+            },
             {
                 "title":"JSX to React Compiler",
                 "category":"A React Single Page Application that transpiles ecmascript 2016 code to compiled react code live in the browser.",
@@ -185,7 +261,7 @@
             },
             {
                 "title":"Financial Statement Analysis",
-                "category":"Using Python to analysis a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",
+                "category":"Using Python to analyse a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",
                 "image":"py.png",
                 "url":"https://github.com/joshuacassidy/Financial-Statement-Analysis"
             },
