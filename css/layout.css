@@ -428,6 +428,27 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: bootstrap 2s ease;
   	-webkit-animation: bootstrap 2s ease;
 }
+.mocha {
+  -moz-animation: Mocha 2s ease;
+  -webkit-animation: Mocha 2s ease;
+}
+.chai {
+  -moz-animation: chai 2s ease;
+  -webkit-animation: chai 2s ease;
+}
+.jest {
+  -moz-animation: jest 2s ease;
+  -webkit-animation: jest 2s ease;
+}
+.junit {
+  -moz-animation: junit 2s ease;
+  -webkit-animation: junit 2s ease;
+}
+
+/* ------------------------------------------------------------------ */
+/*  Section
+/* ------------------------------------------------------------------ */
+
 
 @-moz-keyframes hardworking {
   0%   { width: 0px;  }
@@ -491,23 +512,23 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes node {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes firebase {
   0%   { width: 0px;  }
-  100% { width: 18%;  }
+  100% { width: 78%;  }
 }
 @-moz-keyframes mongodatabase {
   0%   { width: 0px;  }
-  100% { width: 15%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes redux {
   0%   { width: 0px;  }
-  100% { width: 10%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes computerarchitecture {
   0%   { width: 0px;  }
@@ -527,9 +548,28 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes bootstrap {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes mocha {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-moz-keyframes chai {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-moz-keyframes jest {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes junit {
+  0%   { width: 0px;  }
+  100% { width: 35%;  }
 }
 
+/* ------------------------------------------------------------------ */
+/*  Section
+/* ------------------------------------------------------------------ */
 
 @-webkit-keyframes hardworking {
   0%   { width: 0px;  }
@@ -592,23 +632,23 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes node {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes firebase {
   0%   { width: 0px;  }
-  100% { width: 18%;  }
+  100% { width: 78%;  }
 }
 @-webkit-keyframes mongodatabase {
   0%   { width: 0px;  }
-  100% { width: 15%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes redux {
   0%   { width: 0px;  }
-  100% { width: 10%;  }
+  100% { width: 30%;  }
 }
 
 @-webkit-keyframes computerarchitecture {
@@ -631,9 +671,24 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes bootstrap {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
-
+@-webkit-keyframes mocha {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-webkit-keyframes chai {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-webkit-keyframes jest {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-webkit-keyframes junit {
+  0%   { width: 0px;  }
+  100% { width: 35%;  }
+}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
