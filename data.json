@@ -4,7 +4,7 @@
 		"occupation": "Student",
 		"description": "Currently studying a BSc (Honours) in Computing at the National College of Ireland.",
 		"image": "https://avatars0.githubusercontent.com/u/18393831?v=3&u=ef3575617707cad0977e3d3ebf653e8a784779e4&s=400",
-		"bio": "My name is Joshua Cassidy, I’m twenty-one years old and currently in my first year at the National College of Ireland attending the BSc (Honours) in Computing course. I'm Hard working and work on my own initiative. I started programming initially when I was 16, in Java, where I learned for two years before branching out into other technologies such as Python, JavaScript, React, C#, Java, Node.js, MongoDB, MySQL, and many more.",
+		"bio": "My name is Joshua Cassidy, I’m twenty-one years old and currently in my final year at the National College of Ireland attending the BSc (Honours) in Computing course. I'm Hard working and work on my own initiative. I started programming initially when I was 16, in Java, where I learned for two years before branching out into other technologies such as Python, R, PHP, JavaScript, React, C#, Java, Node.js, MongoDB, MySQL, PL/SQL, Elastic Search and many more.",
 		"email": "Joshcassidy79@gmail.com",
 		"phone": "083-188-0578",
 		"contact": "If you have any questions or would just like to chat feel free to contact me.",
@@ -50,27 +50,33 @@
 		"work": [
 			{
 				"company": "Ellucian",
+				"title": "Associate Software Developer",
+				"years": "January 2019 – July 2019",
+				"description": "Developed, Tested and Code reviewed PL/SQL APIs. Created, Tested and Code reviewed the JavaScript and Oracle Apex frontend. Attending the Marvel Scrum Team Agile Ceremonies. Created, executed and reviewed test cases for the Quercus and Elevate products. Developed an Automated Code review System using SonarQube, GIT, Python, unittest, PL/SQL, Bash, shUnit2. Researched, designed, developed and tested a new logging Pipeline for Ellucian using Bash, shUnit2, Elasticsearch, Kibana, PLSQL, utPLSQL, cron, Java, Cucumber-JVM, Junit and Selenium Web Driver. Researched, designed, developed and tested a logging prioritisation to detect the most critical issues in an instance of Quercus using Python, Sklearn, unittest, Elasticsearch, JavaScript, Java, Junit and Selenium Web Driver. Using GIT and Tortoise SVN for version control."
+			},
+			{
+				"company": "Ellucian",
 				"title": "Research and Development Intern",
 				"years": "May 2018 – August 2018",
-				"description": "My role at Ellucian involved working as a team member of the Marvel Scrum team. As part of the Marvel scrum team I created, Tested and Code reviewed PL/SQL APIs. Being a part of the Marvel Scrum team also involved attending Agile Ceremonies. I also designed, executed and evaluated test cases for the Quercus and Elevate products. I used Node.js, Express.js, EJS, JSON and XML to develop the backend of Ellucian Ian. Used HTML, CSS, MaterializeCSS, JavaScript and jQuery to create the frontend of Ellucian Ian. Testing Ellucian Ian using: Mocha, Chai, Istanbul and Selenium. I also used Java8, JUnit5 and Selenium Web Driver to test the Quercus and Elevate Products."
+				"description": "Developing, Testing and Code reviewing PL/SQL APIs. Creating, Testing and Code reviewing the JavaScript and Oracle Apex frontend. Attending the Marvel Scrum Team Agile Ceremonies. Creating, executing and reviewing test cases for the Quercus and Elevate products. Used Node.js, Express.js, EJS, JSON and XML to develop the backend of Ellucian Ian with the MVC design pattern. Used HTML, CSS, MaterializeCSS, JavaScript and jQuery to develop the front-end of Ellucian Ian. Testing Ellucian Ian using: Mocha, Chai, Istanbul and Selenium with JUnit. Used Java, JUnit5 and Selenium Web Driver to test the Quercus and Elevate Products. Used GIT and Tortoise SVN for version control."
 			},
 			{
 				"company": "Webbiz",
-				"title": "Web Application and API Intern",
+				"title": "Full Stack Sofware Development Intern",
 				"years": "May 2017 - September 2017",
-				"description": "My position in Webbiz entailed working both remote and working on site, to developing a Dynamic Financial Planning Application that has a seamless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the Front-end. The application was styled with Bootstrap and CSS. The app also required an API to connect to send emails and receive data from the database; this API also adds new records to the database whenever the form is submitted. The API makes use of CORS only to allow authorised URL's to make requests to the API. The database that was used initially was firebase, but it was later decided for the application to use mongoose with mlab. The testing framework that was used to test the React application was Jest, and the testing framework that was used to test the node API was mocha and chai. Both the application and the API had documentation written for them so other developers in the company can add and remove feature's where necessary. During development, the application and API were deployed on Heroku to test their behaviour in an online environment. The codebase that was used during the development of the application and API was BitBucket. When the development, testing, and documentation of the API and application were completed, they were presented to the CEO and Lead Developer of Webbiz."
+				"description": "Developed, tested and Deployed a Dynamic Financial Planning Application to be used by the sales team for seamless user experience. Developed, tested, and Deployed the UI of the application using React.JS and Jest. Developed, tested, and Deployed the Backend of the Application using Node, Mocha and Chai. Created and Deployed the MongoDB database. Used GIT for version control."
 			},
 			{
 				"company": "37 Daweson Street",
 				"title": "Bar Support Staff",
 				"years": "December 2016 – January 2017",
-				"description": "My role as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibilities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and receiving radio calls."
+				"description": "Responsibilities as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibilities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and receiving radio calls."
 			},
 			{
 				"company": "Oxfam Malahide",
 				"title": "Volunteer",
 				"years": "June 2013 – May 2016",
-				"description": "My responsibilities as a volunteer in Oxfam included: troubleshooting and solving issues with the cash register system, operating the cash register system, managing the shop phone, Serving customers and sorted through donations to decide which items were of merchantable quality."
+				"description": "Responsibilities as a volunteer in Oxfam included: troubleshooting and solving issues with the cash register system, operating the cash register system, managing the shop phone, Serving customers and sorted through donations to decide which items were of merchantable quality."
 			}
 		],
 
