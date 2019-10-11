@@ -82,20 +82,20 @@
 
 		"skills": [
 			{
+				"name": "Artificial Intelligence",
+				"level": "65%"
+			},
+			{
+				"name": "Machine Learning",
+				"level": "85%"
+			},
+			{
 				"name": "TeamWork",
 				"level": "85%"
 			},
 			{
-				"name": "Computer Architecture",
-				"level": "90%"
-			},
-			{
 				"name": "Game Development",
 				"level": "55%"
-			},
-			{
-				"name": "Customer Service",
-				"level": "70%"
 			},
 			{
 				"name": "Web Design",
@@ -174,10 +174,6 @@
 			{
 				"name": "JUnit",
 				"level": "35%"
-			},
-			{
-				"name": "Redux",
-				"level": "30%"
 			}
 		]
 	},
