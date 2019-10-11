@@ -98,6 +98,26 @@
 				"level": "90%"
 			},
 			{
+				"name": "Agile",
+				"level": "65%"
+			},
+			{
+				"name": "Testing",
+				"level": "85%"
+			},
+			{
+				"name": "RESTful Web services",
+				"level": "95%"
+			},
+			{
+				"name": "Data Analytics",
+				"level": "75%"
+			},
+			{
+				"name": "Database Design",
+				"level": "95%"
+			},
+			{
 				"name": "TeamWork",
 				"level": "85%"
 			},
@@ -132,12 +152,12 @@
 				"level": "81%"
 			},
 			{
-				"name": "JSON",
+				"name": "R",
 				"level": "79%"
 			},
 			{
-				"name": "Ruby",
-				"level": "13%"
+				"name": "PL/SQL",
+				"level": "98%"
 			},
 			{
 				"name": "Node",
@@ -153,14 +173,14 @@
 			},
 			{
 				"name": "C#",
-				"level": "23%"
+				"level": "90%"
 			},
 			{
 				"name": "JavaScript",
 				"level": "88%"
 			},
 			{
-				"name": "Firebase",
+				"name": "Elastic search",
 				"level": "78%"
 			},
 			{
@@ -172,7 +192,15 @@
 				"level": "78%"
 			},
 			{
+				"name": "Selenium",
+				"level": "78%"
+			},
+			{
 				"name": "Chai",
+				"level": "78%"
+			},
+			{
+				"name": "Cucumber",
 				"level": "78%"
 			},
 			{
