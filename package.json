@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://joshuacassidy.github.io/portfolio",
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.4.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
