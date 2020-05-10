@@ -41,10 +41,10 @@
 				"description": "Graduated from Mount Temple Comprehensive School where I completed my Leaving Certificate."
 			},
 			{
-				"school": "Nation College of Ireland",
+				"school": "National College of Ireland",
 				"certificate": "Degree",
 				"graduated": "September 2016 - Present",
-				"description": "Started Bachelor's degree in Computing at the National College of Ireland."
+				"description": ""
 			}
 		],
 		"work": [
@@ -67,7 +67,7 @@
 				"description": "Developed, tested and Deployed a Dynamic Financial Planning Application to be used by the sales team for seamless user experience. Developed, tested, and Deployed the UI of the application using React.JS and Jest. Developed, tested, and Deployed the Backend of the Application using Node, Mocha and Chai. Created and Deployed the MongoDB database. Used GIT for version control."
 			},
 			{
-				"company": "37 Daweson Street",
+				"company": "37 Dawson Street",
 				"title": "Bar Support Staff",
 				"years": "December 2016 – January 2017",
 				"description": "Responsibilities as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibilities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and receiving radio calls."
