@@ -1,0 +1,407 @@
+{
+	"main": {
+		"name": "Joshua Cassidy",
+		"occupation": "Student",
+		"description": "Currently studying a BSc (Honours) in Computing at the National College of Ireland.",
+		"image": "https://avatars0.githubusercontent.com/u/18393831?v=3&u=ef3575617707cad0977e3d3ebf653e8a784779e4&s=400",
+		"bio": "My name is Joshua Cassidy, I’m twenty-one years old and currently in my final year at the National College of Ireland attending the BSc (Honours) in Computing course. I'm Hard working and work on my own initiative. I started programming initially when I was 16, in Java, where I learned for two years before branching out into other technologies such as Python, R, PHP, JavaScript, React, C#, Java, Node.js, MongoDB, MySQL, PL/SQL, Elastic Search and many more.",
+		"email": "Joshcassidy79@gmail.com",
+		"phone": "083-188-0578",
+		"contact": "If you have any questions or would just like to chat feel free to contact me.",
+		"address": {
+			"street": "Hill Drive",
+			"area": "Malahide",
+			"city": "Dublin",
+			"country": "Ireland"
+		},
+		"social": [
+			{
+				"name": "google-plus",
+				"url": "https://plus.google.com/102735292595904041225",
+				"className": "fa fa-google-plus"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/joshcassidy/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "github",
+				"url": "http://github.com/joshuacassidy",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"education": [
+			{
+				"school": "Mount Temple Comprehensive School",
+				"certificate": "Leaving Certificate",
+				"graduated": "September 2009 - May 2015",
+				"description": "Graduated from Mount Temple Comprehensive School where I completed my Leaving Certificate."
+			},
+			{
+				"school": "Nation College of Ireland",
+				"certificate": "Degree",
+				"graduated": "September 2016 - Present",
+				"description": "Started Bachelor's degree in Computing at the National College of Ireland."
+			}
+		],
+		"work": [
+			{
+				"company": "Ellucian",
+				"title": "Associate Software Developer",
+				"years": "January 2019 – July 2019",
+				"description": "Developed, Tested and Code reviewed PL/SQL APIs. Created, Tested and Code reviewed the JavaScript and Oracle Apex frontend. Attending the Marvel Scrum Team Agile Ceremonies. Created, executed and reviewed test cases for the Quercus and Elevate products. Developed an Automated Code review System using SonarQube, GIT, Python, unittest, PL/SQL, Bash, shUnit2. Researched, designed, developed and tested a new logging Pipeline for Ellucian using Bash, shUnit2, Elasticsearch, Kibana, PLSQL, utPLSQL, cron, Java, Cucumber-JVM, Junit and Selenium Web Driver. Researched, designed, developed and tested a logging prioritisation to detect the most critical issues in an instance of Quercus using Python, Sklearn, unittest, Elasticsearch, JavaScript, Java, Junit and Selenium Web Driver. Using GIT and Tortoise SVN for version control."
+			},
+			{
+				"company": "Ellucian",
+				"title": "Research and Development Intern",
+				"years": "May 2018 – August 2018",
+				"description": "Developing, Testing and Code reviewing PL/SQL APIs. Creating, Testing and Code reviewing the JavaScript and Oracle Apex frontend. Attending the Marvel Scrum Team Agile Ceremonies. Creating, executing and reviewing test cases for the Quercus and Elevate products. Used Node.js, Express.js, EJS, JSON and XML to develop the backend of Ellucian Ian with the MVC design pattern. Used HTML, CSS, MaterializeCSS, JavaScript and jQuery to develop the front-end of Ellucian Ian. Testing Ellucian Ian using: Mocha, Chai, Istanbul and Selenium with JUnit. Used Java, JUnit5 and Selenium Web Driver to test the Quercus and Elevate Products. Used GIT and Tortoise SVN for version control."
+			},
+			{
+				"company": "Webbiz",
+				"title": "Full Stack Sofware Development Intern",
+				"years": "May 2017 - September 2017",
+				"description": "Developed, tested and Deployed a Dynamic Financial Planning Application to be used by the sales team for seamless user experience. Developed, tested, and Deployed the UI of the application using React.JS and Jest. Developed, tested, and Deployed the Backend of the Application using Node, Mocha and Chai. Created and Deployed the MongoDB database. Used GIT for version control."
+			},
+			{
+				"company": "37 Daweson Street",
+				"title": "Bar Support Staff",
+				"years": "December 2016 – January 2017",
+				"description": "Responsibilities as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibilities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and receiving radio calls."
+			},
+			{
+				"company": "Oxfam Malahide",
+				"title": "Volunteer",
+				"years": "June 2013 – May 2016",
+				"description": "Responsibilities as a volunteer in Oxfam included: troubleshooting and solving issues with the cash register system, operating the cash register system, managing the shop phone, Serving customers and sorted through donations to decide which items were of merchantable quality."
+			}
+		],
+
+		"skills": [
+			{
+				"name": "Artificial Intelligence",
+				"level": "65%"
+			},
+			{
+				"name": "Machine Learning",
+				"level": "85%"
+			},
+			{
+				"name": "Natural Language Processing",
+				"level": "55%"
+			},
+			{
+				"name": "Metaheuristics",
+				"level": "90%"
+			},
+			{
+				"name": "Agile",
+				"level": "65%"
+			},
+			{
+				"name": "Testing",
+				"level": "85%"
+			},
+			{
+				"name": "RESTful Web services",
+				"level": "95%"
+			},
+			{
+				"name": "Data Analytics",
+				"level": "75%"
+			},
+			{
+				"name": "Database Design",
+				"level": "95%"
+			},
+			{
+				"name": "TeamWork",
+				"level": "85%"
+			},
+			{
+				"name": "Game Development",
+				"level": "55%"
+			},
+			{
+				"name": "Web Design",
+				"level": "60%"
+			},
+			{
+				"name": "Problem Solving",
+				"level": "90%"
+			},
+			{
+				"name": "Technical Skills",
+				"level": "85%"
+			}
+		],
+		"programming_experience": [
+			{
+				"name": "Java",
+				"level": "89%"
+			},
+			{
+				"name": "React",
+				"level": "70%"
+			},
+			{
+				"name": "Git",
+				"level": "81%"
+			},
+			{
+				"name": "R",
+				"level": "79%"
+			},
+			{
+				"name": "PL/SQL",
+				"level": "98%"
+			},
+			{
+				"name": "Node",
+				"level": "70%"
+			},
+			{
+				"name": "Python",
+				"level": "75%"
+			},
+			{
+				"name": "BootStrap",
+				"level": "80%"
+			},
+			{
+				"name": "C#",
+				"level": "90%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "88%"
+			},
+			{
+				"name": "Elastic search",
+				"level": "78%"
+			},
+			{
+				"name": "Mongo Database",
+				"level": "85%"
+			},
+			{
+				"name": "Mocha",
+				"level": "78%"
+			},
+			{
+				"name": "Selenium",
+				"level": "78%"
+			},
+			{
+				"name": "Chai",
+				"level": "78%"
+			},
+			{
+				"name": "Cucumber",
+				"level": "78%"
+			},
+			{
+				"name": "Jest",
+				"level": "30%"
+			},
+			{
+				"name": "JUnit",
+				"level": "35%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Solar System",
+				"category": "The purpose of this program is to demonstrate how Sets interface and Serialisation works. The program reads in a a list of planets moons from two binary files and prints out the body type of the moon or planet, its orbital period and its name.",
+				"image": "java.png",
+				"url": "https://github.com/joshuacassidy/Solar-System"
+			},
+			{
+				"title": "Financial Planning Application",
+				"category": "The Financial Planning Application was developed for Webbiz. This is a dynamic Web Application which created in React and tested with Jest. The Application a API in order to send email and get and post data to.",
+				"image": "react.svg",
+				"url": ""
+			},
+			{
+				"title": "Financial Planning Application API",
+				"category": "The Financial Planning Application API was developed for Webbiz. The API connects to a Mongo database which the API recieves data from. Financial Planning Application manages the data and emails for the Financial Planning Application.",
+				"image": "node.png",
+				"url": "https://webbiz.herokuapp.com/"
+			},
+			{
+				"title": "Theatre Seats Planner",
+				"category": "The purpose of this program is to demonstrate how ArrayList interface works. The program allows seats to be reserved or canceled. The program also prints out the reserved seats.",
+				"image": "java.png",
+				"url": "https://github.com/joshuacassidy/Theatre-Seats-Planner"
+			},
+			{
+				"title": "Trip Planner",
+				"category": "The purpose of this  program is to demonstrate how Linked List interface works. The program that reads in a list of cities from a file, and allows users to go to the next city in the list, the previous city or print the list of cities.",
+				"image": "java.png",
+				"url": "https://github.com/joshuacassidy/Trip-Planner"
+			},
+			{
+				"title": "Grocery List",
+				"category": "A Grocery List program that allows user's to add an item to the grocery list, modify items in the grocery list, remove items from the grocery list, search for items in the grocery list and print out the contents of the grocery list.",
+				"image": "java.png",
+				"url": "https://github.com/joshuacassidy/Grocery-List/"
+			},
+			{
+				"title": "Movies Domestic Gross By Genre Analysis",
+				"category": "Using the Python Seaborn Library to show Domestic Gross by Genre on a box plot graph.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Movies-Domestic-Gross-By-Genre-Analysis"
+			},
+			{
+				"title": "Movie Ratings Analysis",
+				"category": "Using the Python Seaborn Library to show the distributions of the audience and critic ratings. Using a facet grid to display a violin plot that plots the movies budget against the year of creation, a kde plot which plots the relationdship between critic and audience ratings.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Movie-Ratings-Analysis"
+			},
+			{
+				"title": "World Trends Analysis",
+				"category": "Using the Python Seaborn and Pandas Libraries to show plot the BirthRate against LifeExpectancy categorized by Country Region in 1960 and 2013, BirthRate against Internet Users categorized by Income Group and Country's Region",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/World-Trends-Analysis"
+			},
+			{
+				"title": "Basketball Statistics Analysis",
+				"category": "Using Python to analyse basketball players preformance from 2005-2014, Some of the elements analysed are the overall players points scored per season,the saleries of the player per season, points scored per season, amount of free throws by players, the players free throw accuracy, players throw accuracy etc. ",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Basketball-Statistics-Analysis"
+			},
+			{
+				"title": "JSX to React Compiler",
+				"category": "A React Single Page Application that transpiles ecmascript 2016 code to compiled react code live in the browser.",
+				"image": "react.svg",
+				"url": "https://github.com/joshuacassidy/JSX-to-React-Compiler"
+			},
+			{
+				"title": "Financial Statement Analysis",
+				"category": "Using Python to analyse a companies profit, profit after tax,profit, good months, bad months, best month worst month, mean and profit margin in a given year by using its revenue and expenses.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Financial-Statement-Analysis"
+			},
+			{
+				"title": "React Weather Application",
+				"category": "A dynamic web application that can tell users the weather forecast in Ireland for the next five days. This application is developed in React and Redux that uses the open weather API.",
+				"image": "react.svg",
+				"url": "https://github.com/joshuacassidy/React-Weather-App"
+			},
+			{
+				"title": "Law of the Large Numbers",
+				"category": "A Python program that proves the Law of the Large Numbers theorem. The user chooses the sample size of randomly normally distributed numbers for the program to prove the theorem based on these numbers generated.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/law-of-the-large-numbers"
+			},
+			{
+				"title": "Binary Adder",
+				"category": "A JavaScript program that adds two binary numbers together using only logic gates (the and, or and not operators) then presenting the, in the format of 0010 0011.",
+				"image": "js.png",
+				"url": "https://github.com/joshuacassidy/Binary-Adder"
+			},
+			{
+				"title": "Moatview Early Education Centre",
+				"category": "moatvieweec.com was developed for the purpose of Webmas 2016 which is an event organised to support charitable causes by giving them an online presence. This website was developed by the team I was on.",
+				"image": "wordpress.jpg",
+				"url": "http://moatvieweec.com/"
+			},
+			{
+				"title": "React Survey",
+				"category": "A single page survey application that asks users questions and posts the results to a database. This application is developed in React and Firebase.",
+				"image": "react.svg",
+				"url": "https://github.com/joshuacassidy/React-Survey"
+			},
+			{
+				"title": "React Video Player",
+				"category": "A React Application that uses the YouTube search API that allows users to search and watch videos.",
+				"image": "react.svg",
+				"url": "https://github.com/joshuacassidy/Video-Player"
+			},
+			{
+				"title": "Fibonacci Sequence",
+				"category": "A JavaScript program that displays the first x number of terms of the Fibonacci Sequence where x is chosen by the user.",
+				"image": "js.png",
+				"url": "https://github.com/joshuacassidy/Fibonacci-Sequence"
+			},
+			{
+				"title": "Hotel Rooms Maths Problem",
+				"category": "A maths problem where a customer to a hotel has lost their key. The room keys properties are the non-trivial divisors sum to a number greater than the room number and set of non-trivial divisors has no subset whose sum is equal to the room number.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Hotel-Rooms-Maths-Problem"
+			},
+			{
+				"title": "Input Event",
+				"category": "This is a boilerplate program that is used to have a web page respond when a certain sequence of keys is input. The program waits for the user to input a certain string of character. When the user inputs that string that string of characters they get an alert.",
+				"image": "js.png",
+				"url": "https://github.com/joshuacassidy/InputEvent"
+			},
+			{
+				"title": "Song Player",
+				"category": "This is a music player made in java that uses a websites Url for the song to be played the songs are stored in the songs.txt file and can be added into the program by using the application's interface or adding a song in manually in the format of Artist Name | Song Name | Song URL.",
+				"image": "java.png",
+				"url": "https://github.com/joshuacassidy/SongPlayer"
+			},
+			{
+				"title": "Number Converter",
+				"category": "A program is written in Python, that can convert a decimal number to binary, hexadecimal or octal. This program can also convert a binary, hexadecimal or octal number into decimal.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/NumberConverter"
+			},
+			{
+				"title": "Veggie Guesser",
+				"category": "A command line interface vegetable guessing game that is made in python.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Veggie-Guesser"
+			},
+			{
+				"title": "Number Guessing Game",
+				"category": "This is command line interface numbers guessing game made in Python where users can choose whether or not the would like to range of the numbers to be guessed between. Users can also choose if they want to set a number of guesses.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/Number-Guessing-Game"
+			},
+
+			{
+				"title": "To-Do List",
+				"category": "A command line interface To-Do List Application made in Python.",
+				"image": "py.png",
+				"url": "https://github.com/joshuacassidy/To-Do-List"
+			},
+			{
+				"title": "Individual Sites",
+				"category": "Individual Sites is My First Year Semester One Web Design Project for National College of Ireland.",
+				"image": "html.jpg",
+				"url": "https://github.com/joshuacassidy/Web-Design-Project-2016"
+			},
+			{
+				"title": "Ruby Rock Paper Scissors",
+				"category": "Rock Paper Scissors made with the ruby shoes GUI.",
+				"image": "ruby.png",
+				"url": "https://github.com/joshuacassidy/RockPaperScissors"
+			},
+			{
+				"title": "Ruby Counting Words in a String",
+				"category": "Ruby program that counts a number of words in a string that excludes special characters and numbers.",
+				"image": "ruby.png",
+				"url": "https://github.com/joshuacassidy/Counting-Words-in-a-String"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"user": "John Doe"
+			},
+			{
+				"text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"user": "John Doe"
+			}
+		]
+	}
+}
