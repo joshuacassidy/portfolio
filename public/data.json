@@ -51,7 +51,7 @@
 				"description": "Graduated from Mount Temple Comprehensive School where I completed my Leaving Certificate."
 			},
 			{
-				"school": "Nation College of Ireland",
+				"school": "National College of Ireland",
 				"certificate": "Degree",
 				"graduated": "September 2016 - Present",
 				"description": "Started Bachelor's degree in Computing at the National College of Ireland."
@@ -71,7 +71,7 @@
 				"description": "My position in Webbiz entailed working both remote and working on site, to developing a Dynamic Financial Planning Application that has a seamless user experience with the design team, that is to be used by marketing campaign in order for the sales team to get qualified lead, this application is being developed using React JS for the Front-end. The application was styled with Bootstrap and CSS. The app also required an API to connect to send emails and receive data from the database; this API also adds new records to the database whenever the form is submitted. The API makes use of CORS only to allow authorised URL's to make requests to the API. The database that was used initially was firebase, but it was later decided for the application to use mongoose with mlab. The testing framework that was used to test the React application was Jest, and the testing framework that was used to test the node API was mocha and chai. Both the application and the API had documentation written for them so other developers in the company can add and remove feature's where necessary. During development, the application and API were deployed on Heroku to test their behaviour in an online environment. The codebase that was used during the development of the application and API was BitBucket. When the development, testing, and documentation of the API and application were completed, they were presented to the CEO and Lead Developer of Webbiz."
 			},
 			{
-				"company": "37 Daweson Street",
+				"company": "37 Dawson Street",
 				"title": "Bar Support Staff",
 				"years": "December 2016 – January 2017",
 				"description": "My role as part of the bar support team was to maintain the whisky bar, dancefloor, bin room, mezzanine and outside smoking area. Some of the responsibilities I had were as follows: collecting glasses, changing bins, maintaining the bin rooms, cleaning up spillages, answering and receiving radio calls."
